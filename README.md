@@ -2,6 +2,23 @@
 
 狼叔的ai自留地
 
+
+## 概念
+
+大语言模型从 Scaling（规模扩展） 到 Reasoning（推理能力） 再到 Agentic（智能体化） 的三阶段演进：Scaling 通过参数、数据和算力扩张建立知识底座；Reasoning 借助后训练、链式思维和强化学习提升逻辑推导能力；Agentic 则进一步强调模型与工具、环境和反馈系统交互，形成“感知—行动—反馈—调整”的闭环，以完成真实世界中的复杂长期任务。
+
+- ReAct
+- Function calling (or tool calling) 
+- skills
+- mcp
+- agent or stateful agent
+- harness engineering
+- loop engineering
+- autoresearch https://github.com/karpathy/autoresearch
+- LLM Wiki https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+- ralph loop https://github.com/snarktank/ralph
+
+
 ## 常用库
 
 - https://github.com/tobi/qmd
@@ -15,7 +32,12 @@
 
 - https://github.com/obra/Superpowers
 - https://github.com/garrytan/gstack
+- https://pi.dev/
 
+额外小灶
+
+- https://github.com/affaan-m/ecc
+- 掌握 /goal 和 ralph loop
 
 ## sandbox
 
