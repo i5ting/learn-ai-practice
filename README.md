@@ -108,6 +108,7 @@ tauri + https://github.com/longbridge/gpui-component
 
 ## sandbox
 
+- https://github.com/xicilion/boxsh
 - https://github.com/vm0-ai/vm0
 - https://github.com/servo/gaol
 - https://github.com/ErickJ3/sandbox-rs
