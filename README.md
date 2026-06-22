@@ -18,6 +18,24 @@
 - LLM Wiki https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 - ralph loop https://github.com/snarktank/ralph
 
+## 常用工具
+
+tools
+
+- https://github.com/wxtsky/CodeIsland
+
+
+终端
+
+- https://github.com/ghostty-org/ghostty
+- https://otty.sh/
+- https://github.com/warpdotdev/warp
+
+cli & desktop
+
+- https://openai.com/zh-Hans-CN/index/introducing-the-codex-app/
+- https://github.com/anomalyco/opencode
+- https://claude.com/product/claude-code
 
 ## 常用库
 
@@ -25,7 +43,9 @@
 - https://github.com/dmtrKovalenko/fff
 - https://github.com/VectifyAI/PageIndex
 - https://github.com/tursodatabase/agentfs
+- https://github.com/StarTrail-org/PixelRAG
 - https://github.com/nashsu/llm_wiki
+- https://github.com/gastownhall/beads
 
 
 ## workflow 
@@ -45,15 +65,22 @@
 - https://github.com/servo/gaol
 - https://github.com/ErickJ3/sandbox-rs
 - https://github.com/deeplethe/forkd
+- https://github.com/zerobootdev/zeroboot
 - 腾讯 https://github.com/tencentcloud/CubeSandbox
 - 字节 https://github.com/bytedance/sandboxfusion
 - 阿里 https://github.com/opensandbox-group/OpenSandbox
 
+## compute-use
+
+
+- https://github.com/trycua/cua
+- https://github.com/bytedance/ui-tars-desktop
 
 ## agent
 
 - https://docs.letta.com/guides/core-concepts/stateful-agents
 - https://github.com/jackwener/maka-agent
+- Open-source AI Agent Monitoring https://github.com/latitude-dev/latitude-llm
 
 ## pipeline
 
@@ -67,6 +94,7 @@
 
 - https://github.com/GoogleCloudPlatform/knowledge-catalog
 - https://pandawiki.docs.baizhi.cloud/
+- https://github.com/hilash/cabinet
 
 
 ## 应用
