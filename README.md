@@ -37,6 +37,9 @@ cli & desktop
 - https://github.com/anomalyco/opencode
 - https://claude.com/product/claude-code
 
+桌面端推荐方案，参考otty
+tauri + https://github.com/longbridge/gpui-component
+
 ## 常用库
 
 - https://github.com/tobi/qmd
@@ -47,6 +50,15 @@ cli & desktop
 - https://github.com/nashsu/llm_wiki
 - https://github.com/gastownhall/beads
 
+
+## 龙虾及变体
+
+- https://github.com/openclaw/openclaw
+- https://github.com/nanocoai/nanoclaw
+
+变体实在是太多，nanoclaw还不错。
+
+我不喜欢龙虾，给的权限小了没用，大了浪费token。
 
 ## workflow 
 
