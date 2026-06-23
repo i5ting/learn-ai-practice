@@ -37,6 +37,7 @@
 - skills 参考https://github.com/jimliu/baoyu-skills
 - mcp
 - agent or stateful agent
+- mas = Multi-Agent System
 - harness engineering
 - loop engineering
 - autoresearch https://github.com/karpathy/autoresearch
