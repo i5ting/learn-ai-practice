@@ -36,7 +36,10 @@
 - Agent Loop
 - Function calling (or tool calling) 
 - skills 参考https://github.com/jimliu/baoyu-skills
-- mcp
+- protocol
+    - mcp = Model Context Protocol https://modelcontextprotocol.io/
+    - acp = Agent Client Protocol https://agentclientprotocol.com/
+    - a2a = Agent2Agent protocol 没啥大用 https://github.com/a2aproject/A2A
 - agent or stateful agent
 - mas = Multi-Agent System
 - harness engineering
