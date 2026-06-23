@@ -90,6 +90,7 @@ tauri + https://github.com/longbridge/gpui-component
 - https://github.com/sourcegraph/zoekt
 - https://github.com/swe-bench/SWE-bench
 - https://github.com/EverMind-AI/EverOS
+- https://github.com/pierrecomputer/pierre 其中diff和tree挺好
 
 
 ## 龙虾及变体
