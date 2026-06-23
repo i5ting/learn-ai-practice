@@ -109,6 +109,7 @@ tauri + https://github.com/longbridge/gpui-component
 - https://github.com/obra/Superpowers
 - https://github.com/garrytan/gstack
 - https://pi.dev/
+- https://github.com/mattpocock/skills 
 
 额外小灶
 
