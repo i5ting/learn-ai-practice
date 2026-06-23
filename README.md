@@ -82,6 +82,7 @@ tauri + https://github.com/longbridge/gpui-component
 - https://github.com/millionco/spawn-agent
 - https://github.com/entireio/cli
 - https://github.com/sourcegraph/zoekt
+- https://github.com/swe-bench/SWE-bench
 
 
 ## 龙虾及变体
@@ -137,6 +138,7 @@ tauri + https://github.com/longbridge/gpui-component
 - https://docs.letta.com/guides/core-concepts/stateful-agents
 - https://github.com/jackwener/maka-agent
 - Open-source AI Agent Monitoring https://github.com/latitude-dev/latitude-llm
+- trace + eval  https://github.com/evotai/evot
 - agent spec https://github.com/agentpm-dev/cli/blob/main/specs/2026-05-11-agents-as-first-class-citizens/spec.md 一般，但可借鉴。
 
 ## pipeline
