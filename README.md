@@ -45,7 +45,6 @@
 
 ## 常用工具
 
-
 tools
 
 - https://github.com/wxtsky/CodeIsland
@@ -55,9 +54,10 @@ tools
 
 终端
 
-- https://github.com/ghostty-org/ghostty
-- https://otty.sh/
-- https://github.com/warpdotdev/warp
+- https://github.com/ghostty-org/ghostty 用的最多
+- https://otty.sh/ tauri + gpui 清新
+- https://github.com/warpdotdev/warp 以前用，开源后不咋用了
+- https://github.com/nowledge-co/con-terminal    gpui+libghostty 的 terminal with ai
 
 cli & desktop
 
@@ -66,6 +66,7 @@ cli & desktop
 - https://claude.com/product/claude-code
 
 桌面端推荐方案，参考otty
+
 tauri + https://github.com/longbridge/gpui-component
 
 ![alt text](image.png)
