@@ -83,6 +83,7 @@ tauri + https://github.com/longbridge/gpui-component
 - https://github.com/entireio/cli
 - https://github.com/sourcegraph/zoekt
 - https://github.com/swe-bench/SWE-bench
+- https://github.com/EverMind-AI/EverOS
 
 
 ## 龙虾及变体
