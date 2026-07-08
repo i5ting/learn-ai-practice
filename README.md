@@ -84,6 +84,7 @@ tauri + https://github.com/longbridge/gpui-component
 - https://github.com/tursodatabase/agentfs
 - https://github.com/StarTrail-org/PixelRAG
 - https://github.com/nashsu/llm_wiki
+- https://github.com/langchain-ai/openwiki/
 - https://github.com/gastownhall/beads
 - https://github.com/millionco/spawn-agent
 - https://github.com/entireio/cli
