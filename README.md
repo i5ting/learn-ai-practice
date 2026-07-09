@@ -95,6 +95,7 @@ tauri + https://github.com/longbridge/gpui-component
     - https://github.com/TencentCloud/TencentDB-Agent-Memory
 - https://github.com/pierrecomputer/pierre 其中diff和tree挺好
 - https://github.com/mindmuxai/brain.md 对session处理简单直接高效
+- https://github.com/genkit-ai/genkit 开发agent as api，和faas一样简单
 
 
 ## 龙虾及变体
