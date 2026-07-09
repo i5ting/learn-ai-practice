@@ -90,7 +90,9 @@ tauri + https://github.com/longbridge/gpui-component
 - https://github.com/entireio/cli
 - https://github.com/sourcegraph/zoekt
 - https://github.com/swe-bench/SWE-bench
-- https://github.com/EverMind-AI/EverOS
+- long-term memory
+    - https://github.com/EverMind-AI/EverOS
+    - https://github.com/TencentCloud/TencentDB-Agent-Memory
 - https://github.com/pierrecomputer/pierre 其中diff和tree挺好
 - https://github.com/mindmuxai/brain.md 对session处理简单直接高效
 
