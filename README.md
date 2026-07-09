@@ -198,6 +198,7 @@ agent 的尽头是im
 - Agent 沙箱 Claude Code Cursor OpenClaw标配能力一文讲清楚 https://mp.weixin.qq.com/s/-FSThb-jyX5zdMcYlfl1HQ
 - learn-claude-code-js https://github.com/i5ting/learn-claude-code-js/
 - Agent Skills 设计哲学和实战进化 https://x.com/dotey/status/2036114136245969025
+- Harness Engineering for Self-Improvement https://lilianweng.github.io/posts/2026-07-04-harness/
 
 ## 叔语录
 
