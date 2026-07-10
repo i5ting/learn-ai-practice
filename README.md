@@ -96,6 +96,7 @@ tauri + https://github.com/longbridge/gpui-component
 - https://github.com/pierrecomputer/pierre 其中diff和tree挺好
 - https://github.com/mindmuxai/brain.md 对session处理简单直接高效
 - https://github.com/genkit-ai/genkit 开发agent as api，和faas一样简单
+- https://github.com/citrolabs/ego-lite The best browser for both you and your AI agents work in parallel.
 
 
 ## 龙虾及变体
