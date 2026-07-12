@@ -173,6 +173,14 @@ tauri + https://github.com/longbridge/gpui-component
 - https://github.com/colbymchenry/codegraph
 
 
+## Digital Employee
+
+实现数字员工三种途径
+
+1，阿里[qoderwake](https://qoder.com/zh/qoderwake)，跑docker里，开各种权限，它局限在于docker，能解决二成需求就不错了。我不喜欢这种，使用应该放在日常，而非为了让它聪明使用更多。
+2，基于im，把agent放到联系人里，比如bloome这种，这个跑在pc里，和宿主共用一个环境，上下文等，交互都非常方便，这种日常帮助非常大，一半以上。
+3，基于人的数字分身，你看什么做什么它都感知，蒸馏，类似http://wisme.ai。这个就是蒸馏你自己，此时如果它被当成agent，出现在im里，才是最真实最强大的。
+
 ## 应用
 
 - 闭源：https://raft.build/
