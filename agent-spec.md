@@ -14,7 +14,7 @@
 - **Memory**：长期记忆、用户偏好、上下文沉淀机制
 - **Knowledge Base**：领域知识库、文档索引、RAG 数据源等
 - **Plugin**：用于扩展运行时能力和预览能力  
-  例如集成 App 模拟器、调用 Haodesk 功能、自动提交日报等
+  例如集成 App 模拟器、调用内部系统的各种功能、自动提交日报等
 - **Pipeline**：支持多 Agent 协作与复杂工作流编排  
   类似 npm / Maven 中的依赖关系，可声明、复用和组合其他 Agent Package
 
