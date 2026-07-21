@@ -97,6 +97,7 @@ tauri + https://github.com/longbridge/gpui-component
 - https://github.com/mindmuxai/brain.md 对session处理简单直接高效
 - https://github.com/genkit-ai/genkit 开发agent as api，和faas一样简单
 - https://github.com/citrolabs/ego-lite The best browser for both you and your AI agents work in parallel.
+- https://github.com/astaxie/TokenHub TokenHub is a private enterprise AI gateway with role-based workspaces for users, team leaders, and administrators.
 
 
 ## 龙虾及变体
