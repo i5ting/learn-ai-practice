@@ -111,12 +111,13 @@ tauri + https://github.com/longbridge/gpui-component
 
 我不喜欢龙虾（包括hermes），给的权限小了没用，大了浪费token。
 
-## workflow 
+## workflow & skill
 
 - https://github.com/obra/Superpowers
 - https://github.com/garrytan/gstack
 - https://pi.dev/
 - https://github.com/mattpocock/skills 
+- https://github.com/tt-a1i/archify
 
 额外小灶
 
