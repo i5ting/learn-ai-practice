@@ -98,6 +98,8 @@ tauri + https://github.com/longbridge/gpui-component
 - https://github.com/genkit-ai/genkit 开发agent as api，和faas一样简单
 - https://github.com/citrolabs/ego-lite The best browser for both you and your AI agents work in parallel.
 - https://github.com/astaxie/TokenHub TokenHub is a private enterprise AI gateway with role-based workspaces for users, team leaders, and administrators.
+- https://github.com/lycorp-jp/sim-use Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices. 
+GLM 5.3 +  mcp server + sim-use 可以在没有提示的情况下自己用 dokit 的工具去 qa 登陆
 
 
 ## 龙虾及变体
