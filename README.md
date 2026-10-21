@@ -18,6 +18,21 @@
 
 职业是进化，而非消失。AI会改变人才结构，但需求增加也是事实。
 
+
+## 越来越趋向于专业化，也许是好事
+
+from https://x.com/svpino/status/2112517943582196053
+
+1994年，软件已经死了。人们告诉我，编程是给书呆子干的，我应该去当医生或律师。
+
+2004年，软件已经死了。人们告诉我，有印度人会以每小时5美元的价格抢走我的工作。
+
+2014年，软件已经死了。人们告诉我，无代码工具将摧毁所有工作，让我的职业生涯走向末日。
+
+2024年，随着Devin、Windsurf、Copilot和OpenAI o1的出现，软件已经死了。
+
+我们每10年就杀死一次软件，然而，对优秀软件工程师的需求从未如此高涨。
+
 ## 为什么有了ai越来越累？
 
 - 1、有参考的，ai实现太方便，尤其对有经验但动手不足的。
@@ -100,6 +115,7 @@ tauri + https://github.com/longbridge/gpui-component
 - https://github.com/astaxie/TokenHub TokenHub is a private enterprise AI gateway with role-based workspaces for users, team leaders, and administrators.
 - https://github.com/lycorp-jp/sim-use Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices. 
 GLM 5.3 +  mcp server + sim-use 可以在没有提示的情况下自己用 dokit 的工具去 qa 登陆
+- https://github.com/tester-army/e2e 2026年七月份发布的最新e2e框架
 
 
 ## 龙虾及变体
