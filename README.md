@@ -218,6 +218,7 @@ agent 的尽头是im
 - https://bloome.im/
 - https://cumora.ai/
 - https://shandianshuo.cn/
+- https://cromma.ai/
 
 这几个都不错，但是他们的先手优势只有半年，钉钉、飞书等如果跟进，对他们来说是很危险的。
 
